@@ -6,7 +6,8 @@
  * Volatile accesses ensure that optimized builds still perform every matrix
  * read and write. On a system with 4096-byte pages, each row occupies one page.
  *
- * @author Project 4 group (add member names and IDs before submission)
+ * @author Layla Wilson
+ * @author Jazmyne Kenny
  * @bug No known bugs.
  */
 
