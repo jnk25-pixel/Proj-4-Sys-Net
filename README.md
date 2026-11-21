@@ -17,10 +17,8 @@ size and other relevant conditions when interpreting benchmark results.
 
 ## Remaining group work
 
-- Add the group members' names and IDs to the author line in `matrix.cpp`.
 - Run the benchmark on the intended test system, record its compiler, options,
   operating system and page size, and make a bar chart from the four results.
 - Prepare `reportExperiment.pdf` with the chart, experiment, observations,
   performance implications, conclusions, and any implementation/testing issues.
 - Prepare `reportPF.pdf` with the page-fault calculation and illustrations.
-- Upload the required individual files to Canvas as instructed by the course.
